@@ -24,8 +24,8 @@ date: '2023-05-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 2023.
-publication_short: In *The IEEE International Conference on Systems, Man, and Cybernetics (SMC, CCF-C)*. Accepted to appear
+publication: In *The IEEE International Conference on Systems, Man, and Cybernetics* (SMC), 2023.
+publication_short: In *The IEEE International Conference on Systems, Man, and Cybernetics* (SMC, CCF-C). Accepted to appear
 
 abstract: While advanced classifiers have been increasingly used in real-world safety-critical applications, how to properly evaluate the black-box models given specific human values remains a concern in the community. Such human values include punishing error cases of different severity in varying degrees and making compromises in general performance to reduce specific dangerous cases. In this paper, we propose a novel evaluation measure named Meta Pattern Concern Score based on the abstract representation of probabilistic prediction and the adjustable threshold for the concession in prediction confidence, to introduce the human values into multi-classifiers. Technically, we learn from the advantages and disadvantages of two kinds of common metrics, namely the confusion matrix-based evaluation measures and the loss values, so that our measure is effective as them even under general tasks, and the cross entropy loss becomes a special case of our measure in the limit. Besides, our measure can also be used to refine the model training by dynamically adjusting the learning rate. The experiments on four kinds of models and six datasets confirm the effectiveness and efficiency of our measure. And a case study shows it can not only find the ideal model reducing 0.53% of dangerous cases by only sacrificing 0.04% of training accuracy, but also refine the learning rate to train a new model averagely outperforming the original one with a 1.62% lower value of itself and 0.36% fewer number of dangerous cases.
 
