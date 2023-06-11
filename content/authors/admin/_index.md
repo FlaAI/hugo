@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a M.Sc. student in Computer Science at The University of Hong Kong ([HKU](https://www.hku.hk/)). I received my B.Eng. in Software Engineering at East China Normal University ([ECNU](https://english.ecnu.edu.cn/)) in 2022. During the last two years of my undergraduate studies, I also worked as a part-time research assistant at the [Shanghai Key Laboratory of Trustworthy Computing](http://20141022090616.51eweb.com) under the supervision of [Prof. Dehui Du](https://dblp.uni-trier.de/pid/81/6559.html).
+I am a M.Sc. student in Computer Science at [The University of Hong Kong](https://www.hku.hk/). I received my B.Eng. in Software Engineering at [East China Normal University](https://english.ecnu.edu.cn/) in 2022. During the last two years of my undergraduate studies, I also worked as a part-time research assistant at [Shanghai Key Laboratory of Trustworthy Computing](http://20141022090616.51eweb.com) under the supervision of [Prof. Dehui Du](https://scholar.google.com/citations?user=9WHLtvoAAAAJ&hl=en&oi=ao).
 {style="text-align: justify;"}
