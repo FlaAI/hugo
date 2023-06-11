@@ -34,7 +34,7 @@ abstract: Adversarial sequence generation plays an important role in improving t
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [ma2022efficient]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
