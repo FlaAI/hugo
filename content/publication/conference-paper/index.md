@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-# date: '2022-07-01T00:00:00Z'
+date: '2022-03-01T00:00:00Z'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +32,7 @@ publication_types: ['1']
 publication: In *Safe AI Workshop @ The AAAI Conference on Artificial Intelligence (AAAI)*, 2022.
 publication_short: In *Safe AI Workshop @ The AAAI Conference on Artificial Intelligence (AAAI, CCF-A)*, 2022. Best **Paper Award Nomination**.
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Adversarial sequence generation plays an important role in improving the robustness of Recurrent Neural Networks (RNNs). However, there is still a lack of effective methods for RNN adversarial sequence generation. Due to the particular cyclic structure of RNN, the efficiency of adversarial attacks still need to be improved, and their perturbation is uncontrolled. To deal with these problems, we propose an efficient adversarial sequence generation approach for RNN with Symbolic Weighted Finite Automata (SWFA). The novelty is that RNN is extracted to SWFA with the symbolic extracting algorithm based on Fast k-DCP. The symbolic adversarial sequence can be generated in the symbolic space. It reduces the complexity of perturbation to improve the efficiency of adversarial sequence generation. More importantly, our approach keeps perturbation as much as possible within the human-invisible range. The feasibility of the approach is demonstrated with some autonomous driving datasets and several UCR time-series datasets. Experimental results show that our approach outperforms the state-of-art attack methods with almost 112.92% improvement and 1.44 times speedup in a human-invisible perturbation.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -55,36 +55,4 @@ url_pdf: 'https://ceur-ws.org/Vol-3087/paper_19.pdf'
 # url_slides: ''
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#   focal_point: ''
-#   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-# projects:
-#   - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-# slides: example
 ---
-
-# {{% callout note %}}
-# Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-# {{% /callout %}}
-
-# {{% callout note %}}
-# Create your slides in Markdown - click the _Slides_ button to check out the example.
-# {{% /callout %}}
-
-# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
