@@ -26,8 +26,8 @@ date: '2022-03-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Safe AI Workshop @ The AAAI Conference on Artificial Intelligence (AAAI)*, 2022.
-publication_short: In *Safe AI Workshop @ The AAAI Conference on Artificial Intelligence (AAAI, CCF-A)*. **Best Paper Award Nomination**
+publication: In *Safe AI Workshop @ The AAAI Conference on Artificial Intelligence* (AAAI), 2022.
+publication_short: In *Safe AI Workshop @ The AAAI Conference on Artificial Intelligence* (AAAI, CCF-A). **Best Paper Award Nomination**
 
 abstract: Adversarial sequence generation plays an important role in improving the robustness of Recurrent Neural Networks (RNNs). However, there is still a lack of effective methods for RNN adversarial sequence generation. Due to the particular cyclic structure of RNN, the efficiency of adversarial attacks still need to be improved, and their perturbation is uncontrolled. To deal with these problems, we propose an efficient adversarial sequence generation approach for RNN with Symbolic Weighted Finite Automata (SWFA). The novelty is that RNN is extracted to SWFA with the symbolic extracting algorithm based on Fast k-DCP. The symbolic adversarial sequence can be generated in the symbolic space. It reduces the complexity of perturbation to improve the efficiency of adversarial sequence generation. More importantly, our approach keeps perturbation as much as possible within the human-invisible range. The feasibility of the approach is demonstrated with some autonomous driving datasets and several UCR time-series datasets. Experimental results show that our approach outperforms the state-of-art attack methods with almost 112.92% improvement and 1.44 times speedup in a human-invisible perturbation.
 
