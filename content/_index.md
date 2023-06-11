@@ -89,6 +89,7 @@ sections:
       view: citation
   
   - block: markdown
+    id: ha
     content:
       title: Honors & Awards
       subtitle: ''
