@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:yynwang@connect.hku.hk"
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -59,10 +59,10 @@ social:
   #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=QmiFlLkAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/FlaAI
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a M.Sc. student in Computer Science at [The University of Hong Kong](https://www.hku.hk/). I received my B.Eng. in Software Engineering at [East China Normal University](https://english.ecnu.edu.cn/) in 2022. During the last two years of my undergraduate studies, I also worked as a part-time research assistant at [Shanghai Key Laboratory of Trustworthy Computing](http://20141022090616.51eweb.com) under the supervision of [Prof. Dehui Du](https://scholar.google.com/citations?user=9WHLtvoAAAAJ&hl=en&oi=ao).
+I am a M.Sc. student in Computer Science at [The University of Hong Kong](https://www.hku.hk/). I received my B.Eng. in Software Engineering at [East China Normal University](https://english.ecnu.edu.cn/) in 2022. During the last two years of my undergraduate studies, I also worked as a part-time research assistant at [Shanghai Key Laboratory of Trustworthy Computing](https://tclab.ecnu.edu.cn/) under the supervision of [Prof. Dehui Du](https://scholar.google.com/citations?user=9WHLtvoAAAAJ&hl=en&oi=ao).
 {style="text-align: justify;"}
