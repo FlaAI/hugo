@@ -92,10 +92,7 @@ sections:
     content:
       title: Honors & Awards
       subtitle: ''
-      text: Excellent Graduate Award, East China Normal University, 2022 \\
-Excellent Bachelor's Degree Thesis Award, East China Normal University, 2022 \\
-Excellent Undergraduate Student, East China Normal University, 2020 & 2021 \\
-First / Second-class Scholarship, East China Normal University, 2020 / 2021
+      text: Excellent Graduate Award, East China Normal University, 2022 \\ Excellent Bachelor's Degree Thesis Award, East China Normal University, 2022 \\ Excellent Undergraduate Student, East China Normal University, 2020 & 2021 \\ First / Second-class Scholarship, East China Normal University, 2020 / 2021
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
