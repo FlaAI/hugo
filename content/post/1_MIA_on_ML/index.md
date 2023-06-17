@@ -24,7 +24,7 @@ authors:
   - admin
 ---
 
-# Abstract
+## Abstract
 
 Membership Inference Attack (MIA): to infer whether a data record was used to train a target model or not.
 
@@ -37,5 +37,5 @@ For e.g. via identifying the fact that a clinical record has been used to train 
 Please click [here](https://yanyun-wangs-gitbook.gitbook.io/yanyun-wangs-gitbook/reading-notes-for-papers/reading-note-membership-inference-attacks-on-machine-learning-a-survey) to access the full content of the blog.
 
 
-# Information of the Original Paper
+## Information of the Original Paper
 
