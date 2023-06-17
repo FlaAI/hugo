@@ -1,9 +1,9 @@
 ---
 title: Reading Note of the Paper "Membership Inference Attacks on Machine Learning - A Survey"
-subtitle: Hu, H., Salcic, Z., Sun, L., Dobbie, G., Yu, P. S., & Zhang, X. (2022). Membership inference attacks on machine learning: A survey. ACM Computing Surveys (CSUR), 54(11s), 1-37.
+subtitle: 
 
 # Summary for listings and search engines
-summary: Hu, H., Salcic, Z., Sun, L., Dobbie, G., Yu, P. S., & Zhang, X. (2022). Membership inference attacks on machine learning: A survey. ACM Computing Surveys (CSUR), 54(11s), 1-37.
+summary: 
 
 # Link this post with a project
 projects: []
