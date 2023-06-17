@@ -27,6 +27,9 @@ authors:
 
 ## Information of the Original Paper
 
+```markdown
+Hu, H., Salcic, Z., Sun, L., Dobbie, G., Yu, P. S., & Zhang, X. (2022). Membership inference attacks on machine learning: A survey. ACM Computing Surveys (CSUR), 54(11s), 1-37.
+```
 
 
 
@@ -34,7 +37,7 @@ authors:
 
 Membership Inference Attack (MIA): to infer whether a data record was used to train a target model or not.
 
-MIAs on ML (classification, generative, ...) models can directly lead to a privacy breach (i.e., infer privacy information from training data).
+MIAs on ML (classification, generative, etc.) models can directly lead to a privacy breach (i.e., infer privacy information from training data).
 
 For e.g. via identifying the fact that a clinical record has been used to train a model associated with a certain disease, an attacker can infer that the owner of the clinical record has the disease with a high chance.
 
