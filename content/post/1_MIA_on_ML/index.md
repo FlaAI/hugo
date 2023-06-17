@@ -22,5 +22,4 @@ featured: false
 
 authors:
   - admin
-
 ---
