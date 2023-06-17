@@ -3,7 +3,7 @@ title: Reading Note of the Paper "Membership Inference Attacks on Machine Learni
 subtitle: 
 
 # Summary for listings and search engines
-summary: 
+summary: Membership Inference Attack (MIA) is to infer whether a data record was used to train a target model or not. MIAs on ML models can directly lead to a privacy breach (i.e., infer privacy information from training data).
 
 # Link this post with a project
 projects: []
