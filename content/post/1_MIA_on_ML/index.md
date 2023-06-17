@@ -25,7 +25,7 @@ authors:
 ---
 
 
-**Original Paper**: Hu, H., Salcic, Z., Sun, L., Dobbie, G., Yu, P. S., & Zhang, X. (2022). Membership inference attacks on machine learning: A survey. ACM Computing Surveys (CSUR), 54(11s), 1-37.
+**Information of the Original Paper**: Hu, H., Salcic, Z., Sun, L., Dobbie, G., Yu, P. S., & Zhang, X. (2022). Membership inference attacks on machine learning: A survey. ACM Computing Surveys (CSUR), 54(11s), 1-37.
 
 
 ## Brief Intro
@@ -42,4 +42,6 @@ For e.g. via identifying the fact that a clinical record has been used to train 
 ## Content Access
 
 Please click [here](https://yanyun-wangs-gitbook.gitbook.io/yanyun-wangs-gitbook/reading-notes-for-papers/reading-note-membership-inference-attacks-on-machine-learning-a-survey) to access the content of the blog from my Gitbook.
+
+##
 
