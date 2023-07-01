@@ -3,7 +3,7 @@ title: Reading Note of the Paper "Survey - Leakage and Privacy at Inference Time
 subtitle: 
 
 # Summary for listings and search engines
-summary: Leakage of data from publicly available ML models is an area of growing significance since it can draw on multiple sources of data, potentially including users’ sensitive data.
+summary: Leakage of data from publicly available ML models is an area of growing significance since it can draw on multiple sources of data, including users’ sensitive data.
 
 # Link this post with a project
 projects: []
