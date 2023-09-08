@@ -1,5 +1,5 @@
 ---
-title: 'TSFool: Crafting Highly-imperceptible Adversarial Time Series through Multi-objective Black-box Attack to Fool RNN Classifiers'
+title: 'TSFool: Crafting Highly-Imperceptible Adversarial Time Series through Multi-Objective Gray-Box Attack'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,6 +7,7 @@ title: 'TSFool: Crafting Highly-imperceptible Adversarial Time Series through Mu
 authors:
   - admin
   - Dehui Du
+  - Haibo Hu
   - Yuanhao Liu
 
 # Author notes (optional)
@@ -27,7 +28,7 @@ publication_types: ['3']
 publication: ArXiv preprint
 publication_short: ArXiv preprint
 
-abstract: Neural network (NN) classifiers are vulnerable to adversarial attacks. Although the existing gradient-based attacks achieve state-of-the-art performance in feed-forward NNs and image recognition tasks, they do not perform as well on time series classification with recurrent neural network (RNN) models. This is because the cyclical structure of RNN prevents direct model differentiation and the visual sensitivity of time series data to perturbations challenges the traditional local optimization objective of the adversarial attack. In this paper, a black-box method called TSFool is proposed to efficiently craft highly-imperceptible adversarial time series for RNN classifiers. We propose a novel global optimization objective named Camouflage Coefficient to consider the imperceptibility of adversarial samples from the perspective of class distribution, and accordingly refine the adversarial attack as a multi-objective optimization problem to enhance the perturbation quality. To get rid of the dependence on gradient information, we also propose a new idea that introduces a representation model for RNN to capture deeply embedded vulnerable samples having otherness between their features and latent manifold, based on which the optimization solution can be heuristically approximated. Experiments on 10 UCR datasets are conducted to confirm that TSFool averagely outperforms existing methods with a 46.3% higher attack success rate, 87.4% smaller perturbation and 25.6% better Camouflage Coefficient at a similar time cost.
+abstract: Recent years have witnessed the success of recurrent neural network (RNN) models in time series classification (TSC). However, neural networks (NNs) are vulnerable to adversarial samples, and cause real-life adversarial attacks that undermine AI technologies. But to date, most existing attacks target at feed-forward NNs and image recognition tasks, and they do not perform well on RNN-based TSC. This is due to the cyclical computation of RNN, which prevents direct model differentiation. In addition, the high visual sensitivity of time series data to perturbations also poses challenges to the conventional local objective optimization of adversarial samples. In this paper, a gray-box method called TSFool is proposed to efficiently craft highly-imperceptible adversarial time series for RNN-based TSC. We propose a novel global optimization objective known as "Camouflage Coefficient" to capture the imperceptibility of adversarial samples from the perspective of class distribution. Based on this, we refine the adversarial attack as a multi-objective optimization problem to enhance the perturbation quality. Furthermore, to speed up this optimization process, we also propose a representation model for RNN to capture deeply embedded vulnerable samples whose features deviate from the latent manifold. Experiments on 11 UCR and UEA datasets are conducted to showcase that TSFool significantly outperforms five white-box or black-box benchmark methods in terms of effectiveness and imperceptibility from real-world human studies.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
