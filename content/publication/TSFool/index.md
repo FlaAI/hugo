@@ -38,7 +38,7 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: 'https://arxiv.org/pdf/2209.06388.pdf'
+# url_pdf: 'https://arxiv.org/pdf/2209.06388.pdf'
 url_code: 'https://github.com/FlaAI/TSFool'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
