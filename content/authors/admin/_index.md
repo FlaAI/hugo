@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Currently, I am a full-time research assistant at [Applied Security, Trust And Privacy Lab for Enterprise](https://www.astaple.com/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the supervision of [Prof. Haibo Hu](https://haibohu.org/). I received my M.Sc. degree in Computer Science at [The University of Hong Kong](https://www.hku.hk/) in 2023 and my B.Eng. degree in Software Engineering at [East China Normal University](https://english.ecnu.edu.cn/) in 2022. During the last three years, I also worked as a part-time research assistant at [Shanghai Key Laboratory of Trustworthy Computing](https://tclab.ecnu.edu.cn/) under the supervision of [Prof. Dehui Du](https://scholar.google.com/citations?user=9WHLtvoAAAAJ&hl=en&oi=ao).
+Currently, I am a full-time research assistant at [Applied Security, Trust And Privacy Lab for Enterprise](https://www.astaple.com/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the supervision of [Prof. Haibo Hu](https://haibohu.org/). During the last three years, I also worked as a part-time research assistant at [Shanghai Key Laboratory of Trustworthy Computing](https://tclab.ecnu.edu.cn/) under the supervision of [Prof. Dehui Du](https://scholar.google.com/citations?user=9WHLtvoAAAAJ&hl=en&oi=ao).
 {style="text-align: justify;"}
