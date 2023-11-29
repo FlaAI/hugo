@@ -14,12 +14,12 @@ last_name: Wang
 superuser: true
 
 # Role/position/tagline
-role: M.Sc. Student in Computer Science
+role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The University of Hong Kong
-    url: https://www.hku.hk/
+  - name: The Hong Kong Polytechnic University
+    url: https://www.polyu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include adversarial attack, robust machine learning and trustworthy AI.
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a M.Sc. student in Computer Science at [The University of Hong Kong](https://www.hku.hk/). I received my B.Eng. in Software Engineering at [East China Normal University](https://english.ecnu.edu.cn/) in 2022. During the last two years of my undergraduate studies, I also worked as a part-time research assistant at [Shanghai Key Laboratory of Trustworthy Computing](https://tclab.ecnu.edu.cn/) under the supervision of [Prof. Dehui Du](https://scholar.google.com/citations?user=9WHLtvoAAAAJ&hl=en&oi=ao).
+Currently, I am a full-time research assistant at [Applied Security, Trust And Privacy Lab for Enterprise](https://www.astaple.com/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the supervision of [Prof. Haibo Hu](https://haibohu.org/). I received my M.Sc. degree in Computer Science at [The University of Hong Kong](https://www.hku.hk/) in 2023 and my B.Eng. degree in Software Engineering at [East China Normal University](https://english.ecnu.edu.cn/) in 2022. During the last three years, I also worked as a part-time research assistant at [Shanghai Key Laboratory of Trustworthy Computing](https://tclab.ecnu.edu.cn/) under the supervision of [Prof. Dehui Du](https://scholar.google.com/citations?user=9WHLtvoAAAAJ&hl=en&oi=ao).
 {style="text-align: justify;"}
