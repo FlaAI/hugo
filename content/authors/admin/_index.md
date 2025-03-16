@@ -35,7 +35,7 @@ education:
    courses:
      - course: M.Phil. in Artificial Intelligence
        institution: The Hong Kong University of Science and Technology (Guangzhou)
-       year: 2024-2026
+       year: 2024-Now
      - course: M.Sc. in Computer Science
        institution: The University of Hong Kong
        year: 2022-2024
