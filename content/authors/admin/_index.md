@@ -31,16 +31,17 @@ interests:
 - Speech/Image Generation
 
 # Education to show in About widget
-courses:
-  - course: M.Phil. in Artificial Intelligence
-    institution: The Hong Kong University of Science and Technology (Guangzhou)
-    year: 2024-2026
-  - course: M.Sc. in Computer Science
-    institution: The University of Hong Kong
-    year: 2022-2024
-  - course: B.Eng. in Software Engineering
-    institution: East China Normal University
-    year: 2018-2022
+education:
+   courses:
+     - course: M.Phil. in Artificial Intelligence
+       institution: The Hong Kong University of Science and Technology (Guangzhou)
+       year: 2024-2026
+     - course: M.Sc. in Computer Science
+       institution: The University of Hong Kong
+       year: 2022-2024
+     - course: B.Eng. in Software Engineering
+       institution: East China Normal University
+       year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
