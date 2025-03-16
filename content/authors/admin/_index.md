@@ -14,31 +14,31 @@ last_name: Wang
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant
+role: MPhil Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Hong Kong Polytechnic University
-    url: https://www.polyu.edu.hk/
+  - name: The Hong Kong University of Science and Technology (Guangzhou)
+    url: https://www.hkust-gz.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include adversarial attack, robust machine learning and trustworthy AI.
+bio: My research interests include adversarial/backdoor attack, adversarial training, and speech/image generation.
 
 # Interests to show in About widget
 interests:
-  - Adversarial Attack
-  - Robust Machine Learning
-  - Trustworthy AI
+  - Adversarial/Backdoor Attack
+  - Adversarial Training
+  - Speech/Image Generation
 
 # Education to show in About widget
 education:
   courses:
+    - course: M.Phil. in Artificial Intelligence
+      institution: The Hong Kong University of Science and Technology (Guangzhou)
+      year: 2024-Now
     - course: M.Sc. in Computer Science
       institution: The University of Hong Kong
-      year: 2022-2023
-    - course: Summer Student in Computing
-      institution: National University of Singapore
-      year: 2021
+      year: 2022-2024
     - course: B.Eng. in Software Engineering
       institution: East China Normal University
       year: 2018-2022
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Currently, I am a full-time research assistant at [Applied Security, Trust And Privacy Lab for Enterprise](https://www.astaple.com/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the supervision of [Prof. Haibo Hu](https://haibohu.org/). During the last three years, I also worked as a part-time research assistant at [Shanghai Key Laboratory of Trustworthy Computing](https://tclab.ecnu.edu.cn/) under the supervision of [Prof. Dehui Du](https://scholar.google.com/citations?user=9WHLtvoAAAAJ&hl=en&oi=ao).
+I am currently an MPhil student in AI at HKUST(GZ) under the supervision of [Prof. Li Liu](https://liliu-avril.github.io/). Previously, I once worked as a full-time RA at [Applied Security, Trust And Privacy Lab for Enterprise](https://www.astaple.com/), [PolyU](https://www.polyu.edu.hk/) under the supervision of [Prof. Haibo Hu](https://haibohu.org/), and also as a part-time RA at [Shanghai Key Laboratory of Trustworthy Computing](https://tclab.ecnu.edu.cn/) under the supervision of [Prof. Dehui Du](https://scholar.google.com/citations?user=9WHLtvoAAAAJ&hl=en&oi=ao). I got my MSc CS degree at HKU and BEng SE degree at ECNU.
 {style="text-align: justify;"}
