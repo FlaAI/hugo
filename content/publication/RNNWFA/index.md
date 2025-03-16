@@ -6,15 +6,18 @@ title: 'Efficient Adversarial Sequence Generation for RNN with Symbolic Weighted
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Mingjun Ma
-  - Dehui Du*
+  - Dehui Du
   - Yuanhao Liu
   - admin
   - Yiyang Li
 
 # Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
+author_notes:
+  - 
+  - 'Corresponding Author'
+  - 
+  - 
+  - 
 
 date: '2022-03-01T00:00:00Z'
 # doi: ''
