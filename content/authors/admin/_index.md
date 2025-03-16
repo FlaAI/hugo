@@ -14,31 +14,31 @@ last_name: Wang
 superuser: true
 
 # Role/position/tagline
-role: MPhil Student
+role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
- - name: The Hong Kong University of Science and Technology (Guangzhou)
-   url: https://www.hkust-gz.edu.cn
+ - name: The Hong Kong Polytechnic University
+   url: https://www.polyu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include adversarial/backdoor attack, adversarial training, and speech/image generation.
+bio: My research interests include adversarial attack, robust machine learning and trustworthy AI.
 
 # Interests to show in About widget
 interests:
- - Adversarial/Backdoor Attack
- - Adversarial Training
- - Speech/Image Generation
+ - Adversarial Attack
+ - Robust Machine Learning
+ - Trustworthy AI
 
 # Education to show in About widget
 education:
  courses:
-   - course: M.Phil. in Artificial Intelligence
-     institution: The Hong Kong University of Science and Technology (Guangzhou)
-     year: 2024-Now
    - course: M.Sc. in Computer Science
      institution: The University of Hong Kong
      year: 2022-2024
+   - course: Summer Student in Computing
+     institution: National University of Singapore
+     year: 2021
    - course: B.Eng. in Software Engineering
      institution: East China Normal University
      year: 2018-2022
