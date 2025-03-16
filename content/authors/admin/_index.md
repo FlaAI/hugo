@@ -80,4 +80,5 @@ email: ''
 highlight_name: true
 ---
  
-I am currently an MPhil student in AI at HKUST(GZ) under the supervision of [Prof. Li Liu](https://liliu-avril.github.io/). Previously, I once worked as a full-time RA at [Applied Security, Trust And Privacy Lab for Enterprise](https://www.astaple.com/), [PolyU](https://www.polyu.edu.hk/) under the supervision of [Prof. Haibo Hu](https://haibohu.org/), and also as a part-time RA at [Shanghai Key Laboratory of Trustworthy Computing](https://tclab.ecnu.edu.cn/) under the supervision of [Prof. Dehui Du](https://scholar.google.com/citations?user=9WHLtvoAAAAJ&hl=en&oi=ao).{style="text-align: justify;"}
+I am currently an MPhil student in AI at HKUST(GZ) under the supervision of [Prof. Li Liu](https://liliu-avril.github.io/). Previously, I once worked as a full-time RA at [Applied Security, Trust And Privacy Lab for Enterprise](https://www.astaple.com/), [PolyU](https://www.polyu.edu.hk/) under the supervision of [Prof. Haibo Hu](https://haibohu.org/), and also as a part-time RA at [Shanghai Key Laboratory of Trustworthy Computing](https://tclab.ecnu.edu.cn/) under the supervision of [Prof. Dehui Du](https://scholar.google.com/citations?user=9WHLtvoAAAAJ&hl=en&oi=ao).
+{style="text-align: justify;"}
