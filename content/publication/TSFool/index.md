@@ -42,7 +42,7 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: 'https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA240644'
+url_pdf: 'https://ebooks.iospress.nl/doi/10.3233/FAIA240644'
 url_code: 'https://github.com/FlaAI/TSFool'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
