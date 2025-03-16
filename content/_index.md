@@ -132,7 +132,7 @@ sections:
     content:
       title: Services
       subtitle: ''
-      text: <p>- Conference External Reviewer<br>- Conference Reviewer<br>- Journal Reviewer</p>
+      text: <p>- Conference Reviewer: CVPR (2025, 2024), ICCV (2025), AAAI (2025)<br>- Journal Reviewer: TKDE</p>
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
