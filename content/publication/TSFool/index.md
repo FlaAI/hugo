@@ -6,8 +6,8 @@ title: 'TSFool: Crafting Highly-Imperceptible Adversarial Time Series Through Mu
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Dehui Du\ast
-  - Haibo Hu\ast
+  - Dehui Du*
+  - Haibo Hu*
   - Zi Liang
   - Yuanhao Liu
 
