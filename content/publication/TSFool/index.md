@@ -47,7 +47,7 @@ url_code: 'https://github.com/FlaAI/TSFool'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''
-url_slides: 'https://github.com/FlaAI/hugo/blob/main/content/publication/TSFool/TSFool.pdf'
+url_slides: 'https://github.com/FlaAI/hugo/blob/main/content/publication/TSFool/TSFool_Slide.pdf'
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_video: 'https://github.com/FlaAI/hugo/edit/main/content/publication/TSFool/TSFool.mp4'
 ---
