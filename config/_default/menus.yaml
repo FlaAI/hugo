@@ -16,6 +16,9 @@ main:
   - name: Honors & Awards
     url: '#ha'
     weight: 40
+  - name: Services
+    url: '#services'
+    weight: 50
     
   # - name: Projects
   #   url: '#projects'
