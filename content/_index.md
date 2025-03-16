@@ -132,7 +132,7 @@ sections:
     content:
       title: Services
       subtitle: ''
-      text: <p>- Conference Reviewer: <br>- Journal Reviewer: </p>
+      text: <p>- Conference Reviewer\: <br>- Journal Reviewer\: </p>
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
