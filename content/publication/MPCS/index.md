@@ -43,7 +43,7 @@ url_code: 'https://github.com/FlaAI/MPCS'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''
-# url_slides: 'https://github.com/FlaAI/hugo/blob/main/content/publication/RNNWFA/RNNWFASlide.pdf'
+url_slides: 'https://github.com/FlaAI/hugo/blob/main/content/publication/MPCS/MPCS_Slide.pdf'
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_video: 'https://www.youtube.com/watch?v=Di7zFfocAvU'
 ---
