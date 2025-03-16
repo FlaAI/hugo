@@ -33,6 +33,9 @@ interests:
 # Education to show in About widget
 education:
 courses:
+  - course: M.Phil. in Artificial Intelligence
+    institution: The Hong Kong University of Science and Technology (Guangzhou)
+    year: 2024-2026
   - course: M.Sc. in Computer Science
     institution: The University of Hong Kong
     year: 2022-2024
