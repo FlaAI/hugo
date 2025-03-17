@@ -143,7 +143,7 @@ sections:
   - block: markdown
     id: 
     content:
-      title: '  '
+      title:
       subtitle: ''
       text: '*"All human wisdom is contained in these two words: Wait and Hope." ― Alexandre Dumas*'
     design:
