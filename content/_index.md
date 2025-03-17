@@ -71,7 +71,9 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-      
+
+"All human wisdom is contained in these two words: Wait and Hope." ― Alexandre Dumas
+  
   - block: collection
     id: publications
     content:
