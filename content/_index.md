@@ -75,9 +75,9 @@ sections:
   - block: markdown
     id: 
     content:
-      title: 
+      title: '  '
       subtitle: ''
-      text: '"All human wisdom is contained in these two words: Wait and Hope." ― Alexandre Dumas'
+      text: *'"All human wisdom is contained in these two words: Wait and Hope." ― Alexandre Dumas'*
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
