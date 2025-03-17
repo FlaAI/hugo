@@ -11,6 +11,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      text: '*"All human wisdom is contained in these two words: Wait and Hope." ― Alexandre Dumas*'
   
   # - block: experience
   #   content:
