@@ -122,7 +122,7 @@ sections:
     content:
       title: Honors & Awards
       subtitle: ''
-      text: <p>- Excellent Graduate Award, East China Normal University, 2022<br> <br>- Excellent Bachelor's Degree Thesis Award, East China Normal University, 2022<br> <br>- Excellent Undergraduate Student, East China Normal University, 2020 & 2021<br> <br>- First / Second-class Scholarship, East China Normal University, 2020 / 2021</p>
+      text: '<p>- Excellent Graduate Award, East China Normal University, 2022<br> <br>- Excellent Bachelor's Degree Thesis Award, East China Normal University, 2022<br> <br>- Excellent Undergraduate Student, East China Normal University, 2020 & 2021<br> <br>- First / Second-class Scholarship, East China Normal University, 2020 / 2021</p>'
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -134,7 +134,7 @@ sections:
       title: Services
       subtitle: ''
       text:
-        '- Conference Reviewer: CVPR (2025, 2024), ICCV (2025), AAAI (2025)'  '- Journal Reviewer: TKDE'
+        '- Conference Reviewer: CVPR (2025, 2024), ICCV (2025), AAAI (2025) - Journal Reviewer: TKDE'
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
