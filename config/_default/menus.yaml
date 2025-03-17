@@ -10,7 +10,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
-  - name: Blogs
+  - name: Posts
     url: '#posts'
     weight: 30
   - name: Honors & Awards
