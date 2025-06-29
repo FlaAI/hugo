@@ -27,9 +27,9 @@ bio: My research interests include adversarial/jailbreak/backdoor attack, advers
 # Interests to show in About widget
 interests:
 - AI Security
-- Adversarial/Jailbreak/Backdoor Attack
+- Adversarial/Backdoor Attack
 - Adversarial Training
-- Multimodal LLM Security
+- Multimodal LLM Alignment
 
 # Education to show in About widget
 education:
