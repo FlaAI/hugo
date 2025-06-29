@@ -145,7 +145,7 @@ sections:
     content:
       title:
       subtitle: ''
-      text: <p>Conference Reviewer - CVPR (2025, 2024), ICCV (2025), AAAI (2025)<br> <br>Journal Reviewer - TKDE</p>
+      text: <p>[2024.06] My RA journey at ASTAPLE Lab has come to a close. Thanks to everyone for all the help and support, I had a great time :)</p>
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
