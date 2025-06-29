@@ -36,8 +36,8 @@ date: '2025-05-17T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *63rd Annual Meeting of the Association for Computational Linguistics* (ACL'25).
-publication_short: In *63rd Annual Meeting of the Association for Computational Linguistics* (ACL'25). **Main conference**
+publication: In *Annual Meeting of the Association for Computational Linguistics (ACL'25)*.
+publication_short: In *Annual Meeting of the Association for Computational Linguistics (ACL'25)*, main conference
 
 abstract: 'Model extraction attacks (MEAs) on large language models (LLMs) have received increasing attention in recent research. However, existing attack methods typically adapt the extraction strategies originally developed for deep neural networks (DNNs). They neglect the underlying inconsistency between the training tasks of MEA and LLM alignment, leading to suboptimal attack performance. To tackle this issue, we propose Locality Reinforced Distillation (LoRD), a novel model extraction algorithm specifically designed for LLMs. In particular, LoRD employs a newly defined policy-gradient-style training task that utilizes the responses of victim model as the signal to guide the crafting of preference for the local model. Theoretical analyses demonstrate that I) The convergence procedure of LoRD in model extraction is consistent with the alignment procedure of LLMs, and II) LoRD can reduce query complexity while mitigating watermark protection through our exploration-based stealing. Extensive experiments validate the superiority of our method in extracting various state-of-the-art commercial LLMs.'
 
