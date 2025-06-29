@@ -145,7 +145,7 @@ sections:
     content:
       title:
       subtitle: ''
-      text: <p>[2024.06] My RA journey at ASTAPLE Lab has come to a close. Thanks to everyone for all the help and support, I had a great time :)</p>
+      text: <p>[2024.07] Our paper on adversarial attack against time series classification has been accepted by ECAI\'24. Many thanks to Prof. Du, Prof. Hu, Zi, and Yuanhao!<br> <br>[2024.06] My RA journey at ASTAPLE Lab has come to a close. Thanks to everyone for all the help and support, I had a great time :)</p>
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
