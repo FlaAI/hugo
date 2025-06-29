@@ -22,7 +22,7 @@ organizations:
   url: https://www.hkust-gz.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include adversarial/jailbreak/backdoor attack, adversarial training, and generative model security.
+bio: My research interests include adversarial/backdoor attack, adversarial training, and LLM alignment.
 
 # Interests to show in About widget
 interests:
