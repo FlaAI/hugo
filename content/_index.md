@@ -73,7 +73,7 @@ sections:
   #     columns: '2'
 
 - block: markdown
-    id: 
+    # id: 
     content:
       title: News
       subtitle: ''
