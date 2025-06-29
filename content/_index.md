@@ -145,7 +145,7 @@ sections:
     content:
       title:
       subtitle: ''
-      text: 'Our paper on accuracy-robustness trade-off in adversarial training has been accepted by ICCV'25. Many thanks to Prof. Liu!'
+      text: '*"All human wisdom is contained in two words: Wait and Hope." ― Alexandre Dumas*'
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
