@@ -1,5 +1,5 @@
 ---
-title: 'Failure Cases Are Better Learned But Boundary Says Sorry: Facilitating Smooth Perception Change for Accuracy-Robustness Trade-Off in Adversarial Training'
+title: '*Failure Cases Are Better Learned But Boundary Says Sorry: Facilitating Smooth Perception Change for Accuracy-Robustness Trade-Off in Adversarial Training*'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
