@@ -36,8 +36,8 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: 'https://arxiv.org/abs/2410.12671'
-url_code: 'https://github.com/FlaAI/DUCAT'
+# url_pdf: 'https://arxiv.org/abs/2410.12671'
+# url_code: 'https://github.com/FlaAI/DUCAT'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''
