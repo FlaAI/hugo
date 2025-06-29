@@ -151,17 +151,6 @@ sections:
 #      # Choose how many columns the section has. Valid values: '1' or '2'.
 #      columns: '2'
 
-- block: markdown
-    id: 
-    content:
-      title:
-      subtitle: ''
-      text: '*"All human wisdom is contained in two words: Wait and Hope." ― Alexandre Dumas*'
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-
   - block: markdown
     id: 
     content:
