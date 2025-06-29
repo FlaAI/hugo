@@ -128,17 +128,6 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
 
-- block: markdown
-    # id: 
-    content:
-      title: News
-      subtitle: ''
-      text: <p>[2025.06] Our paper on accuracy-robustness trade-off in adversarial training has been accepted by ICCV'25. Many thanks to Prof. Liu!<br> <br>[2025.05] Our paper on model extraction attacks for LLMs has been accepted by ACL'25. Congratulations to Zi!<br> <br>[2024.09] I start my M.Phil. study at HKUST(GZ). Please feel free to say hi if you see me around campus~<br> <br>[2024.07] Our paper on adversarial attack against time series classification has been accepted by ECAI'24. Many thanks to Prof. Du, Prof. Hu, Zi, and Yuanhao!<br> <br>[2024.06] My RA journey at ASTAPLE Lab has come to a close. Thanks to everyone for all the help and support, I had a great time :)</p>
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-
   - block: markdown
     id: services
     content:
@@ -146,6 +135,17 @@ sections:
       subtitle: ''
       text:
         <p>Conference Reviewer - CVPR (2025, 2024), ICCV (2025), AAAI (2025)<br> <br>Journal Reviewer - TKDE</p>
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+
+- block: markdown
+    id: 
+    content:
+      title: News
+      subtitle: ''
+      text: <p>[2025.06] Our paper on accuracy-robustness trade-off in adversarial training has been accepted by ICCV'25. Many thanks to Prof. Liu!<br> <br>[2025.05] Our paper on model extraction attacks for LLMs has been accepted by ACL'25. Congratulations to Zi!<br> <br>[2024.09] I start my M.Phil. study at HKUST(GZ). Please feel free to say hi if you see me around campus~<br> <br>[2024.07] Our paper on adversarial attack against time series classification has been accepted by ECAI'24. Many thanks to Prof. Du, Prof. Hu, Zi, and Yuanhao!<br> <br>[2024.06] My RA journey at ASTAPLE Lab has come to a close. Thanks to everyone for all the help and support, I had a great time :)</p>
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
