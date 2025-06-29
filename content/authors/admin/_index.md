@@ -29,7 +29,7 @@ interests:
 - AI Security
 - Adversarial/Backdoor Attack
 - Adversarial Training
-- Multimodal LLM Alignment
+- LLM Alignment
 
 # Education to show in About widget
 education:
