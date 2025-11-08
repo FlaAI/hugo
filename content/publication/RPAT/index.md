@@ -39,7 +39,7 @@ featured: true
 url_pdf: 'https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Failure_Cases_Are_Better_Learned_But_Boundary_Says_Sorry_Facilitating_ICCV_2025_paper.html'
 url_code: 'https://github.com/FlaAI/RPAT'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_poster: ''
+url_poster: 'https://github.com/FlaAI/hugo/blob/main/content/publication/RPAT/RPAT_Poster.pdf'
 # url_project: ''
 # url_slides: 'https://github.com/FlaAI/hugo/blob/main/content/publication/TSFool/TSFool_Slide.pdf'
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
