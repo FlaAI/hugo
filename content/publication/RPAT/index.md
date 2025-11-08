@@ -24,7 +24,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Conference on Computer Vision (ICCV'25)*.
-publication_short: In *International Conference on Computer Vision (ICCV'25)*. Accepted to appear
+publication_short: In *International Conference on Computer Vision (ICCV'25)*.
 
 abstract: 'Adversarial Training (AT) is one of the most effective methods to train robust Deep Neural Networks (DNNs). However, AT creates an inherent trade-off between clean accuracy and adversarial robustness, which is commonly attributed to the more complicated decision boundary caused by the insufficient learning of hard adversarial samples. In this work, we reveal a counterintuitive fact for the first time: from the perspective of perception consistency, hard adversarial samples that can still attack the robust model after AT are already learned better than those successfully defended. Thus, different from previous views, we argue that it is rather the over-sufficient learning of hard adversarial samples that degrades the decision boundary and contributes to the trade-off problem. Specifically, the excessive pursuit of perception consistency would force the model to view the perturbations as noise and ignore the information within them, which should have been utilized to induce a smoother perception transition towards the decision boundary to support its establishment to an appropriate location. In response, we define a new AT objective named Robust Perception, encouraging the model perception to change smoothly with input perturbations, based on which we propose a novel Robust Perception Adversarial Training (RPAT) method, effectively mitigating the current accuracy-robustness trade-off. Experiments on CIFAR-10, CIFAR-100, and Tiny-ImageNet with ResNet-18, PreActResNet-18, and WideResNet-34-10 demonstrate the effectiveness of our method beyond four common baselines and 12 state-of-the-art (SOTA) works.'
 
@@ -36,7 +36,7 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: 'https://arxiv.org/abs/2508.02186'
+url_pdf: 'https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Failure_Cases_Are_Better_Learned_But_Boundary_Says_Sorry_Facilitating_ICCV_2025_paper.html'
 url_code: 'https://github.com/FlaAI/RPAT'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
