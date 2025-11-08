@@ -29,11 +29,11 @@ date: '2025-09-23T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: ArXiv Preprint.
-publication_short: ArXiv Preprint
+publication: In *AAAI Conference on Artificial Intelligence (AAAI'26)*.
+publication_short: In *AAAI Conference on Artificial Intelligence (AAAI'26)*. Accepted to appear
 
 abstract: 'Irregular multivariate time series (IMTS), characterized by uneven sampling and inter-variate asynchrony, fuel many forecasting applications yet remain challenging to model efficiently. Canonical Pre-Alignment (CPA) has been widely adopted in IMTS modeling by padding zeros at every global timestamp, thereby alleviating inter-variate asynchrony and unifying the series length, but its dense zero-padding inflates the pre-aligned series length, especially when numerous variates are present, causing prohibitive compute overhead. Recent graph-based models with patching strategies sidestep CPA, but their local message passing struggles to capture global inter-variate correlations. Therefore, we posit that CPA should be retained, with the pre-aligned series properly handled by the model, enabling it to outperform state-of-the-art graph-based baselines that sidestep CPA. Technically, we propose KAFNet, a compact architecture grounded in CPA for IMTS forecasting that couples (1) Pre-Convolution module for sequence smoothing and sparsity mitigation, (2) Temporal Kernel Aggregation module for learnable compression and modeling of intra-series irregularity, and (3) Frequency Linear Attention blocks for the low-cost inter-series correlations modeling in the frequency domain. Experiments on multiple IMTS datasets show that KAFNet achieves state-of-the-art forecasting performance, with a 7.2x parameter reduction and a 8.4x training-inference acceleration.'
 
